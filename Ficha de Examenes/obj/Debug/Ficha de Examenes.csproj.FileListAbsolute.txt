@@ -1,0 +1,112 @@
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe.config
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.pdb
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csprojResolveAssemblyReference.cache
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Properties.Resources.resources
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.GenerateResource.Cache
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.exe
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.pdb
+c:\users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.login.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Principal.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Hospital.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Acerca_de.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Examen.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Precios.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Examenes.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Paciente.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Médico.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Agenda_Exámen.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Consultar_Agenda.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Tomar_Exámen.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Ingresar_Resultado.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Usuarios.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Resultado.resources
+C:\Users\hernan\documents\visual studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Historial.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe.config
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha de Examenes.exe
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha de Examenes.pdb
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\Ficha de Examenes.pdb
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\IrisSkin2.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha de Examenes.csprojResolveAssemblyReference.cache
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Acerca_de.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Agenda_Exámen.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Consultar_Agenda.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Examen.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Historial.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Hospital.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Ingresar_Resultado.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Examenes.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.login.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Médico.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Paciente.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Precios.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Principal.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Properties.Resources.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Resultado.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Tomar_Exámen.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Usuarios.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.GenerateResource.Cache
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\itextsharp.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\bin\Debug\itextsharp.xtra.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Pacientes.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes - Asistente\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Medicos.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Medicos.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Pacientes.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe.config
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.exe
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.pdb
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.pdb
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csprojResolveAssemblyReference.cache
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Acerca_de.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Agenda_Exámen.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Consultar_Agenda.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Examen.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Historial.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Hospital.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Ingresar_Resultado.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Examenes.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Medicos.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Listado_Pacientes.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.login.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Médico.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Paciente.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Precios.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Principal.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Properties.Resources.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Resultado.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Tomar_Exámen.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Usuarios.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.GenerateResource.Cache
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.ACROIEHELPERLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroIEHelperShimLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.PDFShellLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.ResolveComReference.cache
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.ManualUsuario.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Manual_Configuración.resources
+C:\Users\hernan\Downloads\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Manual_Instalación.resources
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\Ficha de Examenes.exe.config
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.ACROIEHELPERLib.dll
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroIEHelperShimLib.dll
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroPDFLib.dll
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.PDFShellLib.dll
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\AxInterop.AcroPDFLib.dll
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.ResolveComReference.cache
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.exe
+F:\Yo\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.pdb
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.ACROIEHELPERLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroIEHelperShimLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Interop.PDFShellLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha de Examenes.csproj.ResolveComReference.cache
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Manual_Configuración.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.Manual_Instalación.resources
+C:\Users\hernan\Documents\Visual Studio 2013\Projects\Ficha de Examenes\Ficha de Examenes\obj\Debug\Ficha_de_Examenes.ManualUsuario.resources
